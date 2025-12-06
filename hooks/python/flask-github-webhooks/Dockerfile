@@ -1,4 +1,4 @@
-FROM python:3.14.1-slim
+FROM python:3.15-rc-alpine3.22
 LABEL version="1.0"
 LABEL description="Flask-based webhook receiver"
 
